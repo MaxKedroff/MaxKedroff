@@ -72,3 +72,22 @@
 </div>
 
 ###
+
+## 📂 Портфолио проектов
+
+<div align="center">
+  <!-- Проект 1 -->
+  <a href="https://github.com/MaxKedroff/Coworker.ru" target="_blank">
+    <img src="https://github.com/MaxKedroff/MaxKedroff/blob/main/coworker.png" alt="Project 1" title="Coworker.ru система управления учебными коворкингами" style="border-radius: 10px; margin: 10px;" width="150">
+  </a>
+  
+  <!-- Проект 2 -->
+  <a href="https://github.com/MaxKedroff/backend_it_hero_2" target="_blank">
+    <img src="https://github.com/MaxKedroff/MaxKedroff/blob/main/Снимок%20экрана%202025-01-26%20191342.png" alt="Project 2" title="система оценивания выступлений" style="border-radius: 10px; margin: 10px;" width="150">
+  </a>
+  
+  <!-- Проект 3 -->
+  <a href="https://github.com/MaxKedroff/spotifyCompetitonKaggle" target="_blank">
+    <img src="https://github.com/MaxKedroff/MaxKedroff/blob/main/spotify.png" alt="Project 3" title="исследование популярности песен spotify" style="border-radius: 10px; margin: 10px;" width="150">
+  </a>
+</div>
