@@ -4,7 +4,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaxKedroff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxKedroff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <div align="center">
+  <img src="https://img.shields.io/static/v1?label=Java&message=45%25&color=007396&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/static/v1?label=Jupyter%20Notebook&message=30%25&color=F37626&style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/static/v1?label=Python&message=25%25&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
 </div>
 
 ###
