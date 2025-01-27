@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Maksim and I'm a java software developer from Yekaterinburg, Russia</h2>
+<h2 align="left">Hi! My name is Maksim and I'm a java software developer from Yekaterinburg, Russia</h2>
 
 ###
 
